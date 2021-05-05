@@ -1,7 +1,7 @@
 #define CATCH_CONFIG_MAIN  // This tells Catch to provide a main() - only do this in one cpp file
 
 #include "test/catch.hpp"
-#include "current-range.h"
+#include "current_range.h"
 #include <cmath>
 
 TEST_CASE("Finds the Number of consecutive ranges in the given series") {
