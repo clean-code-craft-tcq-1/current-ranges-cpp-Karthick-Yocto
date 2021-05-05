@@ -11,8 +11,8 @@ struct RangeInfo
 }; 
 
 
-void processRangeInfo(std::vector<int>, std::vector<RangeInfo*>&);
+void processRange(std::vector<int>, std::vector<RangeInfo*>&);
 
 void findRanges(const std::vector<int>&, std::vector<RangeInfo*>&);
 
-void displayRangeInfo(std::vector<RangeInfo*>&);
+void displayRange(std::vector<RangeInfo*>&);
