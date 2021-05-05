@@ -51,12 +51,21 @@ Adapt/adopt/extend the `yml` files from one of your workflow folders.
 1. Write the next failing test.
 
 Implement one failing test and at least one passing test:
+
 Passing Test:
+
 1.Given the range and correct reading.
+
 2.Find the Number of consecutive ranges in the given series
+
 3.Find the maximum number in the found ranges in the given series
+
 4.Find the minimum number in the found series in the given series
+
 Failing Test
+
 1.Given the range and invalid reading. 
+
 2.Given the invalid range and correct reading. 
+
 3.Given the invalid range and invalid reading.
